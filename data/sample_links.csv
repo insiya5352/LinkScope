@@ -1,0 +1,17 @@
+source,target
+Home,Research
+Home,Products
+Home,About
+Research,DataScience
+Research,PageRank
+Products,PageRank
+Products,DataScience
+About,Home
+DataScience,PageRank
+DataScience,Research
+PageRank,Research
+News,PageRank
+News,DataScience
+Archive,Research
+Archive,Products
+Contact,About
